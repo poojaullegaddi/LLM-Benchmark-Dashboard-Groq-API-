@@ -54,7 +54,7 @@ llm-benchmark-dashboard/
 ├── app.py              # Streamlit dashboard
 ├── requirements.txt   # Dependencies
 ├── README.md          # Project documentation
-└── screenshots/       # (Optional) UI images
+└── screenshots/       # UI images
 ```
 
 ---
